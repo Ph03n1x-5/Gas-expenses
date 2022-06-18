@@ -1,0 +1,12 @@
+                      Unsorted List :                       
+                       Sorted List :                        
+                     Gas Expenses >= 35                     
+                 Gas Expenses >35 and <= 50                 
+             Gas Expenses > 50.00 and <= 95.00              
+                   Gas Expenses >= 95.00                    
+Maximum gas expenses =                            122.17                           
+Minimum gas expenses =                             12.50                           
+Average gas expenses =                             55.22                           
+Expenses above 35 = 18 
+Expenses above 35 and below or equal to 50 = 18
+Expenses above 50 and below or equal to 95= 18
